@@ -13,14 +13,14 @@
   }
   
   .Resume {
-    border: 1px solid black;
+    border: 2px solid black;
     height: 900px;
     width: 700px;
   
   }
   
   .Header {
-    border: 2px solid #338078;
+    border: 1px solid #338078;
     height: 110px;
     background: #338078;
     color: white;
